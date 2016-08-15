@@ -1,0 +1,26 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "Unit test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/franciscobenedict/test-app.git"
+  },
+  "keywords": [
+    "an",
+    "example",
+    "of",
+    "unit",
+    "test"
+  ],
+  "author": "Francisco Benedict",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscobenedict/test-app/issues"
+  },
+  "homepage": "https://github.com/franciscobenedict/test-app#readme"
+}
